@@ -1,0 +1,23 @@
+{
+    "name": "scrnr/query-builder",
+    "description": "QueryBuilder for MySQL driver",
+    "keywords": ["query-builder", "mysql"],
+    "homepage": "https://github.com/scrnr/query-builder-library-php",
+    "type": "library",
+    "require": {
+        "php": ">=8.0",
+        "ext-pcre": "*"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Scrnr\\QueryBuilder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleksei",
+            "email": "scrnr@outlook.com"
+        }
+    ]
+}
