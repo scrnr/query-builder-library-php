@@ -155,7 +155,7 @@ Array
 
 In this example, we call the `select()` method with the *table name* and the `all()` method to select **all** columns. Then, we call the `where()` method to start building the **WHERE** clause, the `equal()` method to *specify the condition*, and the `end()` method to end the **WHERE** clause. Next, we call the `order()` method to *order* the results and the `limit()` method to *limit* the number of results returned. Finally, we call the `getAll()` method to get the SQL query and its prepared parameters as an array.
 
-**For more information about the `getAll()` method click [here](https://github.com/scrnr/test-repo/blob/main/docs/QueryBuilder.md#getall).**
+**For more information about the `getAll()` method click [here](/docs/QueryBuilder.md#getall).**
 
 <a name='contribution'></a>
 ## Contribution [:top:](#table-of-contents)
