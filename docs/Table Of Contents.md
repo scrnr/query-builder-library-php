@@ -4,7 +4,7 @@
 
 * [Installation](/README.md#installation)
 * [How to use](/README.md#how-to-use)
-* [QueryBuilder](/docs/QueryBuilder.md#querybuilder-class)
+* [***QueryBuilder***](/docs/QueryBuilder.md#querybuilder-class)
    * [**Select**](/docs/Select.md#select-class)
      * [distinct](/docs/Select.md#distinct)
      * [from](/docs/Select.md#from)
