@@ -2,8 +2,8 @@
 
 ## Table of contents
 
-* [Installation](/QueryBuilder.md#installation)
-* [How to use](/QueryBuilder.md#how-to-use)
+* [Installation](/README.md#installation)
+* [How to use](/README.md#how-to-use)
 * [QueryBuilder](/docs/QueryBuilder.md#querybuilder-class)
    * [**Select**](/docs/Select.md#select-class)
      * [distinct](/docs/Select.md#distinct)
