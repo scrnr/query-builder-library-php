@@ -14,7 +14,6 @@ class Join
     public const INNER = 'INNER JOIN';
     public const LEFT = 'LEFT JOIN';
     public const RIGHT = 'RIGHT JOIN';
-    public const FULL = 'FULL JOIN';
 
     private Select $refererClass;
     private string $joinTable;
